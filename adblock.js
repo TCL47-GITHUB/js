@@ -21,7 +21,7 @@
     b.type = "text/javascript";
 
     b.async = !0;
-    b.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
+    b.src = "https://tcl47-github.github.io/js/adsbygoogle.js";
     b.onerror = function() {
         f();
         window.adblock = !0
