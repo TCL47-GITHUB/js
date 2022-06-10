@@ -495,9 +495,9 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnweRfaaWBxlTboLmEj4xcjnQMUY5M8BXmpbkNlfmhk5pvU8qHFVmXBWLruTJoGoXYaAEoLc88d1xMS6BG0MJsTwlVe5N5LoMAMwaFHdcxVukTKNWGn4HzwarjHi7qJp0bGrujlkM8S3j3htbcQlVJJatJNL-4ZvhGY5uUA6sXcyEwDdydwn20Nzrd/s1600/moto1.png?1654861386531", id:"moto1"},
-		{src:"images/banner1_HTML5 Canvas_atlas_1.png?1654861386493", id:"banner1_HTML5 Canvas_atlas_1"},
-		{src:"images/banner1_HTML5 Canvas_atlas_2.png?1654861386493", id:"banner1_HTML5 Canvas_atlas_2"}
+		{src:"https://github.com/TCL47-GITHUB/image-tcl47/blob/main/pic/moto1.png?raw=true", id:"moto1"},
+		{src:"https://github.com/TCL47-GITHUB/image-tcl47/blob/main/pic/banner1_HTML5 Canvas_atlas_1.png", id:"banner1_HTML5 Canvas_atlas_1"},
+		{src:"https://github.com/TCL47-GITHUB/image-tcl47/blob/main/pic/banner1_HTML5 Canvas_atlas_2.png", id:"banner1_HTML5 Canvas_atlas_2"}
 	],
 	preloads: []
 };
