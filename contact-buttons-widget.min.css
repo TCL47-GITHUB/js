@@ -405,7 +405,8 @@
     left: -5px;
     -webkit-transform: translate(-100%, -50%);
     transform: translate(-100%, -50%);
-    opacity: 1
+    opacity: 1;
+    width:100px
 }
 
 .b24-widget-button-inner-container,
