@@ -171,7 +171,7 @@
 }
 
 .b24-widget-button-visible {
-    scale: 0.8;
+    scale: 0.9;
     visibility: visible;
     -webkit-animation: b24-widget-button-visible 1s ease-out forwards 1;
     animation: b24-widget-button-visible 1s ease-out forwards 1
